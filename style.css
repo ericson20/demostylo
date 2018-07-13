@@ -1,0 +1,64 @@
+
+p {
+  font-family:sans-serif;
+  color:gray;
+  text-align: justify;
+}
+.cuerpo {
+  width: 80%;
+
+  margin: 0 auto;
+}
+
+
+/*primero en el móvil (mobile first)*/
+
+
+nav li a {
+
+    text-transform: uppercase;
+}
+
+
+/* @media-query */
+
+
+
+
+
+.c_centro{
+  background: white;
+  width: 100%;
+}
+
+.t_gray {
+  color: #f3f2f2;
+}
+
+.espacio {
+  padding: 10px;
+}
+
+
+/*FORMULARIO CLASES */
+
+.formulario {
+  width: 40%;
+  margin: 0 auto;
+}
+input, textarea {
+  width: 100%;
+
+}
+/* fin Formulario */
+
+.std{
+    color:gray; 
+    font-size: 28px; 
+    font-family:sans-serif;
+}
+.footer {
+    background: gray;
+    color: white;
+    text-align: center;
+}
